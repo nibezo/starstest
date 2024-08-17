@@ -7,3 +7,4 @@ This is a simple bot for testing payment through Telegram. It uses [aiogram](htt
 3. Create a Telegram bot with `@BotFather`
 4. Replace the token in `main.py` with your bot's token
 5. Run the bot with `python main.py`
+6. Use `/donate` button for payment.
